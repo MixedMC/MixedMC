@@ -1,4 +1,4 @@
-![Untitled100_20230814182646-2-1 (2)](https://github.com/MixedMC/.github/assets/86055764/36649a1f-5aec-4353-b01e-8ccc75bebcc7)
+![IMG_4456](https://github.com/MixedMC/.github/assets/86055764/bdc8b20a-18f0-4f62-8c8e-9bb616f2301f)
 
 ### Who we are
 
