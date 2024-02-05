@@ -2,7 +2,7 @@
 
 ### Who we are
 
-We are an upcoming Minecraft: Bedrock Edition server aiming to be the best server! Our development team consists of talented and fantastic developers who are ready to make creations for you and everybody in the world!
+We are a minigames server thriving to be the best. Our development team consists of talented and fantastic developers who are ready to make creations for you and everybody in the world!
 
 ### What do we do?
 
@@ -11,4 +11,4 @@ We are an upcoming Minecraft: Bedrock Edition server aiming to be the best serve
 
 ### Want to join our team?
 
-Are you interested working for MixedMC Games? Check our job applications [here](https://bit.ly/mstudiosapply) and select your desired position!
+Are you interested working for MixedMC Games? Check our job applications [here](https://mixedmc.com/apply) and select your desired position!
