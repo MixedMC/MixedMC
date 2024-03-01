@@ -2,7 +2,7 @@
 
 ### Who we are
 
-We are a minigames server thriving to be the best. Our development team consists of talented and fantastic developers who are ready to make creations for you and everybody in the world!
+We are a Minecraft: Bedrock Edition minigames server thriving to be the best. Our team consists of developers excited to create experiences, for both you and players, around the globe! 
 
 ### What do we do?
 
