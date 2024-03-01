@@ -4,6 +4,8 @@
 
 We are a Minecraft: Bedrock Edition minigames server thriving to be the best. Our team consists of developers excited to create experiences, for both you and players, around the globe! 
 
+We use MixedMC Games to expand our experience while constructing something cool.
+
 ### What do we do?
 
 - We try to make amazing creations by using variety of programming languages
