@@ -11,4 +11,4 @@ We are a Minecraft: Bedrock Edition minigames server thriving to be the best. Ou
 
 ### Want to join our team?
 
-Are you interested working for MixedMC Games? Check our job applications [here](https://mixedmc.com/apply) and select your desired position!
+Would you like to join our team at MixedMC Games? Explore our job openings [here](https://mixedmc.com/apply) and choose the role that suits you best.
