@@ -20,3 +20,8 @@ Would you like to join our team at MixedMC Games? Explore our job openings [here
 The following are the programming languages that are commonly used on our projects:
 
 ![Languages](https://skillicons.dev/icons?i=php,java,js,cpp,html,css)
+
+### Connect with us:
+
+<a href="https://mixedmc.com/discord" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="MixedMC Discord" height="50" width="50" /></a>
+</p>
