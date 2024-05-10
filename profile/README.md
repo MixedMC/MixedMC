@@ -8,9 +8,15 @@ We use MixedMC Games to expand our experience on constructing something cool.
 
 ### What do we do?
 
-- We make amazing creations by using variety of programming languages
-- We most use PHP and Java on our projects
+- We make amazing creations for Minecraft: Bedrock by using variety of programming languages
+- We are constructing an awesome Minecraft: Bedrock Edition server, which is MixedMC Games!
 
 ### Want to join our team?
 
 Would you like to join our team at MixedMC Games? Explore our job openings [here](https://jobs.mixedmc.com/) and choose the role that suits you best.
+
+### Languages
+
+The following are the programming languages that are commonly used on our projects:
+
+![Languages](https://skillicons.dev/icons?i=php,java,js,cpp,html,css)
