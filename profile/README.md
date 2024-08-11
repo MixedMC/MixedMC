@@ -4,16 +4,16 @@
 
 We are a Minecraft: Bedrock Edition minigames server thriving to be the best. Our team consists of developers excited to create experiences, for both you and players, around the globe!
 
-We use MixedMC Games to expand our experience on constructing something cool.
+We use Blitz Games to expand our experience on constructing something cool.
 
 ### What do we do?
 
 - We make amazing creations for Minecraft: Bedrock by using variety of programming languages
-- We are constructing an awesome Minecraft: Bedrock Edition server, which is MixedMC Games!
+- We are constructing an awesome Minecraft: Bedrock Edition server, which is Blitz Games!
 
 ### Want to join our team?
 
-Would you like to join our team at MixedMC Games? Explore our job openings [here](https://jobs.mixedmc.com/) and choose the role that suits you best.
+We are currently not hiring at the moment.
 
 ### Languages
 
@@ -23,5 +23,5 @@ The following are the programming languages that are commonly used on our projec
 
 ### Connect with us:
 
-<a href="https://mixedmc.com/discord" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="MixedMC Discord" height="50" width="50" /></a>
+<a href="https://discord.gg/playblitz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Blitz Discord" height="50" width="50" /></a>
 </p>
