@@ -1,2 +1,2 @@
 # .github
-Profile for MixedMC's Github organization page.
+Profile for Blitz's Github organization page.
