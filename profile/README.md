@@ -1,8 +1,11 @@
-![MixedMC Games Logo](https://github.com/MixedMC/.github/assets/86055764/bdc8b20a-18f0-4f62-8c8e-9bb616f2301f)
+![Blitz Games Official Logo](https://github.com/user-attachments/assets/36905ed5-1226-4e66-962e-d1a1e6c3a556)
+
 
 ### Who we are
 
-We are a Minecraft: Bedrock Edition minigames server thriving to be the best. Our team consists of developers excited to create experiences, for both you and players, around the globe!
+We are a next-generation Minecraft: Bedrock Edition minigames server thriving to be the best. Our team consists of developers excited to create experiences, for both you and players, around the globe!
+
+Our goal is to create something fresh and innovative for players, offering a unique experience unlike the existing minigames in Minecraft Bedrock.
 
 We use Blitz Games to expand our experience on constructing something cool.
 
