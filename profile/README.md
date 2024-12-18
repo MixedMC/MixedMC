@@ -22,7 +22,7 @@ We are currently not hiring at the moment.
 
 The following are the programming languages that are commonly used on our projects:
 
-![Languages](https://skillicons.dev/icons?i=php,java,js,cpp,html,css)
+![Languages](https://skillicons.dev/icons?i=php,go,java,js)
 
 ### Connect with us:
 
